@@ -86,6 +86,10 @@ Instale estas bibliotecas na IDE do Arduino:
 - `DHT sensor library`
 - `Adafruit Unified Sensor`
 
+# Links Projeto/Repositório
+[Wokwi](https://wokwi.com/projects/430956393635725313)
+[GitHub](https://github.com/Mecdeiros/Check-Point-2---Edge-Computing---1ESS)
+
 # Imagem do Circuito 
 
 ![Image](https://github.com/user-attachments/assets/767fc4f5-a59f-422e-a6df-c6eaa8cd7f83)
