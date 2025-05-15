@@ -87,8 +87,8 @@ Instale estas bibliotecas na IDE do Arduino:
 - `Adafruit Unified Sensor`
 
 # Links Projeto/Repositório
-[Wokwi](https://wokwi.com/projects/430956393635725313)
-[GitHub](https://github.com/Mecdeiros/Check-Point-2---Edge-Computing---1ESS)
+- [Wokwi](https://wokwi.com/projects/430956393635725313)
+- [GitHub](https://github.com/Mecdeiros/Check-Point-2---Edge-Computing---1ESS)
 
 # Imagem do Circuito 
 
